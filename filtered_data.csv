@@ -1,0 +1,9 @@
+ID,Product,Category,Quantity,PricePerUnit,Date,Total Sale,Month
+16,Air Fryer,Appliances,13,32.0,6/1/2024,416.0,6
+18,Vacuum Cleaner,Electronics,30,20.0,6/3/2024,600.0,6
+20,Microwave,Appliances,12,25.0,7/2/2024,300.0,7
+21,Drone,Electronics,28,18.75,7/3/2024,525.0,7
+22,Camera,Electronics,14,35.0,8/1/2024,490.0,8
+23,Iron,Electronics,11,28.5,8/2/2024,313.5,8
+24,Soundbar,Appliances,35,15.0,8/3/2024,525.0,8
+25,Laptop Stand,Appliances,16,32.0,9/1/2024,512.0,9
